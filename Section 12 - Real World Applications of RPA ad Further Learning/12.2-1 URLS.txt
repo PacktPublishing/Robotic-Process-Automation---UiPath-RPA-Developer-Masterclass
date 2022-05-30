@@ -1,0 +1,12 @@
+1. UiPath RPA Academy: academy.uipath.com/
+
+2. UiPath Community Forum: forum.uipath.com
+
+3. UiPath Studio Guide (FAQ): studio.uipath.com
+
+4. UiPath Activities Guide (FAQ): activities.uipath.com
+
+5. Microsoft .NET Documentation: https://docs.microsoft.com/en-us/dotnet/
+
+
+
